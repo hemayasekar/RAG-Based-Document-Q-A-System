@@ -1,0 +1,1592 @@
+[
+  {
+    "question": "Which two programming languages does the Rajiv Gupta paper say are the most common AI languages?",
+    "expected": "LISP",
+    "answer": "LISP and Prolog.",
+    "type": "answerable",
+    "correct": true,
+    "retrieval_hit": true,
+    "latency": 95.30784678459167,
+    "retrieved": [
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        5
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        5
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        5
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        5
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        4
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        5
+      ],
+      [
+        "Research_Paper_on_Artificial_Intelligence.pdf",
+        0
+      ],
+      [
+        "Research_Paper_on_Artificial_Intelligence.pdf",
+        0
+      ]
+    ],
+    "chunks": [
+      "enabling applications in expert systems, theorem proving, language parsing, knowledge representation, and\nautomated planning.\nHistorically, Prolog gained international prominence during the 1980s particularly with the Japanese\nFifth Generation Computer Systems project, which sought to leverage logic",
+      "languages like Scheme and Common Lisp. LISP introduced concepts critical to AI, including symbolic rea-\nsoning, code as data (homoiconicity), and advanced macro systems, which helped AI researchers experiment\nwith new ideas efficiently. Common Lisp, standardized in the 1980s and 1990s, unified vario",
+      "and computational linguistics 21.\n2.7 LISP (1958)\nLISP, created in 1958 by John McCarthy at MIT, is one of the oldest and most influential programming\nlanguages in the field of artificial intelligence. McCarthy designed LISP with the explicit goal of providing\na powerful and flexible language specif",
+      "pinnings, and its critical role as the dominant AI programming language for decades.\n3 The Rise of Machine Learning (1980s\u20132000s)\n3.1 SOAR (1983)\nSOAR, developed in 1983 by John Laird, Allen Newell, and Paul Rosenbloom at Carnegie Mellon Univer-\nsity, is a pioneering cognitive architecture designed ",
+      "milestone in the history of artificial intelligence and medical informatics.\n2.6 PROLOG (1972)\nProlog, created in 1972 by Alain Colmerauer and Philippe Roussel at Aix-Marseille University in France, is a\nlogic programming language foundational to artificial intelligence and natural language processi",
+      "quickly abandoned in favor of \u201dS-expressions,\u201d a more straightforward parenthesized prefix notation that\nbecame the hallmark of LISP\u2019s syntax. The first LISP interpreter was implemented by Steve Russell on an\nIBM 704, surprising McCarthy by demonstrating that the eval function\u2014a core evaluation proc",
+      "www.ijecs.in  \nInternational Journal Of Engineering And Computer Science  \nVolume  12 Issue  02, February 2023 , Page  No.25654 -25656  \nISSN:  2319 -7242  DOI: 10.18535/ijecs/v11i02 .4671  \n \n \n \n7  Ijecs 02 February Rajiv Gupta Research Paper on Artificial Intelligence  \n \nPage | \n25654  Research ",
+      "capable  of beating  humans.  Today,  the hottest  area of artificial  intelligence  is neural  networks,  which  are \nproving  successful  in a number  of disciplines  such as voice  recognition  and natural -language  processing.  \nThere  are several  programming  languages  that are known  as AI "
+    ]
+  },
+  {
+    "question": "According to the Rajiv Gupta paper, in which field have the greatest advances in AI occurred?",
+    "expected": "game",
+    "answer": "According to the Rajiv Gupta paper, the greatest advances in AI have occurred in the field of games playing.",
+    "type": "answerable",
+    "correct": true,
+    "retrieval_hit": true,
+    "latency": 2.937643051147461,
+    "retrieved": [
+      [
+        "Research_Paper_on_Artificial_Intelligence.pdf",
+        0
+      ],
+      [
+        "Research_Paper_on_Artificial_Intelligence.pdf",
+        2
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        1
+      ],
+      [
+        "Research_Paper_On_Artificial_Intelligence_And_Its.pdf",
+        1
+      ],
+      [
+        "Research_Paper_On_Artificial_Intelligence_And_Its.pdf",
+        0
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        0
+      ],
+      [
+        "Research_Paper_On_Artificial_Intelligence_And_Its.pdf",
+        1
+      ],
+      [
+        "Research_Paper_On_Artificial_Intelligence_And_Its.pdf",
+        1
+      ]
+    ],
+    "chunks": [
+      "www.ijecs.in  \nInternational Journal Of Engineering And Computer Science  \nVolume  12 Issue  02, February 2023 , Page  No.25654 -25656  \nISSN:  2319 -7242  DOI: 10.18535/ijecs/v11i02 .4671  \n \n \n \n7  Ijecs 02 February Rajiv Gupta Research Paper on Artificial Intelligence  \n \nPage | \n25654  Research ",
+      "Ijecs 02 February Rajiv Gupta Research Paper on Artificial Intelligence  \n Page | \n25656  artificial  intelligence  m a d a r , but the c h o d \ncourse  of making  machines  like ourselves  is on its \npath.  \n \nFuture  Scope  \nIt is not easy to predict  the future  of Artificial  \nintelligence.  Art",
+      "the earliest symbolic systems to the current multimodal and agentic era. This review aims to fill that gap by\nexamining over seven decades of AI development\u2014from early expert systems likeMYCINandDENDRAL\nto advanced generative models likeGPT-4,Gemini, andSora.\nWriting this paper in 2025 holds particu",
+      "which allow algorithms to learn from themselves. Strong AI would be machines making their own rules and \nthen follow them, which is not possible at the stage of right now  \nAI has gone through many peak s and troughs since its early inception in the 1950s, usually referred to as AI \n\u201csummers and win",
+      "enhanced the human life in many areas. Artificial intelligence in the last two \ndecades has greatly improved performance of the manufacturing, service \nsector and so in the field of educa tion. Study in the field of artificial \nintelligence has given rise to the rapidly growing technology known as e",
+      "rise of machine learning and statistical modeling (1980s\u20132000s), the deep learning revolution (2010s),\nand the recent explosion of generative and multimodal systems (2020\u20132025). Each phase reflects a major\nshift in how intelligence is defined, represented, and implemented\u2014from handcrafted logic to d",
+      "It is the science and engineering of making intelligent machines, especially intelligent computer programs. It \nis related to the similar task of using computers to understand human intelligence, but AI does not have to \nconfine itself to methods that are biologically observable. While no co nsensua",
+      "Journal of Advanced Zoology   \n \nAvailable online at: https://jazindia.com                                                                                                                       230  technologies have matured to the point in offering real practical benefits in many of their applicatio"
+    ]
+  },
+  {
+    "question": "Which area of AI does the Rajiv Gupta paper call the hottest area today?",
+    "expected": "neural networks",
+    "answer": "Today, the hottest area of artificial intelligence is neural networks.",
+    "type": "answerable",
+    "correct": true,
+    "retrieval_hit": true,
+    "latency": 2.9795541763305664,
+    "retrieved": [
+      [
+        "Research_Paper_on_Artificial_Intelligence.pdf",
+        2
+      ],
+      [
+        "Research_Paper_on_Artificial_Intelligence.pdf",
+        0
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        1
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        0
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        20
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        0
+      ],
+      [
+        "Research_Paper_On_Artificial_Intelligence_And_Its.pdf",
+        1
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        0
+      ]
+    ],
+    "chunks": [
+      "Ijecs 02 February Rajiv Gupta Research Paper on Artificial Intelligence  \n Page | \n25656  artificial  intelligence  m a d a r , but the c h o d \ncourse  of making  machines  like ourselves  is on its \npath.  \n \nFuture  Scope  \nIt is not easy to predict  the future  of Artificial  \nintelligence.  Art",
+      "www.ijecs.in  \nInternational Journal Of Engineering And Computer Science  \nVolume  12 Issue  02, February 2023 , Page  No.25654 -25656  \nISSN:  2319 -7242  DOI: 10.18535/ijecs/v11i02 .4671  \n \n \n \n7  Ijecs 02 February Rajiv Gupta Research Paper on Artificial Intelligence  \n \nPage | \n25654  Research ",
+      "the earliest symbolic systems to the current multimodal and agentic era. This review aims to fill that gap by\nexamining over seven decades of AI development\u2014from early expert systems likeMYCINandDENDRAL\nto advanced generative models likeGPT-4,Gemini, andSora.\nWriting this paper in 2025 holds particu",
+      "rise of machine learning and statistical modeling (1980s\u20132000s), the deep learning revolution (2010s),\nand the recent explosion of generative and multimodal systems (2020\u20132025). Each phase reflects a major\nshift in how intelligence is defined, represented, and implemented\u2014from handcrafted logic to d",
+      "and intelligent systems 90.\n6 Multimodal & Generative AI Explosion (2020\u20132023)\n6.1 GPT-3 (2020)\nGPT-3 (Generative Pre-trained Transformer 3), released by OpenAI in 2020 91 , marked a major milestone in\nthe evolution of generative AI. With a staggering 175 billion parameters, GPT-3 dwarfed all previo",
+      "Keywords:Artificial Intelligence, Deep Learning, Generative Models, Multimodal Systems, AI Evolu-\ntion\n1 Introduction\nArtificial Intelligence (AI) has become one of the most transformative forces of the 21st century, shaping\nindustries, research, and everyday life in ways that were once thought impo",
+      "which allow algorithms to learn from themselves. Strong AI would be machines making their own rules and \nthen follow them, which is not possible at the stage of right now  \nAI has gone through many peak s and troughs since its early inception in the 1950s, usually referred to as AI \n\u201csummers and win",
+      "Tracing the Evolution of Artificial Intelligence:\nA Review of Tools, Frameworks, and Technologies\n(1950\u20132025)\nGurpreet Singh\nWoosong University, South Korea\nTrina Banerjee\nSaks Global\nNishaa\nIndependent Researcher\nAbstract\nArtificial Intelligence (AI) has evolved remarkably over the past seven decad"
+    ]
+  },
+  {
+    "question": "Which university is the author Rajiv Gupta affiliated with?",
+    "expected": "Chandigarh",
+    "answer": "Rajiv Gupta is affiliated with Chandigarh University, Chandigarh, Haryana.",
+    "type": "answerable",
+    "correct": true,
+    "retrieval_hit": true,
+    "latency": 2.656723976135254,
+    "retrieved": [
+      [
+        "Research_Paper_on_Artificial_Intelligence.pdf",
+        0
+      ],
+      [
+        "Research_Paper_on_Artificial_Intelligence.pdf",
+        2
+      ],
+      [
+        "Research_Paper_on_Artificial_Intelligence.pdf",
+        1
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        33
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        0
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        33
+      ],
+      [
+        "Research_Paper_On_Artificial_Intelligence_And_Its.pdf",
+        0
+      ],
+      [
+        "Research_Paper_On_Artificial_Intelligence_And_Its.pdf",
+        4
+      ]
+    ],
+    "chunks": [
+      "www.ijecs.in  \nInternational Journal Of Engineering And Computer Science  \nVolume  12 Issue  02, February 2023 , Page  No.25654 -25656  \nISSN:  2319 -7242  DOI: 10.18535/ijecs/v11i02 .4671  \n \n \n \n7  Ijecs 02 February Rajiv Gupta Research Paper on Artificial Intelligence  \n \nPage | \n25654  Research ",
+      "Ijecs 02 February Rajiv Gupta Research Paper on Artificial Intelligence  \n Page | \n25656  artificial  intelligence  m a d a r , but the c h o d \ncourse  of making  machines  like ourselves  is on its \npath.  \n \nFuture  Scope  \nIt is not easy to predict  the future  of Artificial  \nintelligence.  Art",
+      "Ijecs 02 February Rajiv Gupta Research Paper on Artificial Intelligence  \n Page | \n25655  that the hydraulic fracturing is carried out at the \nlevel of -210 m to -434 m, with a hole depth of \n224 m, at -210 m horizontal drilling downward \nvertical drilling. Therefore, according to the \nobtained fina",
+      "24. (1978) \u2014 History of LISP\nhttps://dl.acm.org/doi/pdf/10.1145/960118.808387\n25. (2022) \u2014 Introduction to Soar\nhttps://arxiv.org/pdf/2205.03854\n26. (1986) \u2014 Soar\u2014A General Problem-Solving Architecture\nhttps://doi.org/10.1007/978-1-4613-2277-1_15\n27. (2022) \u2014 Introduction to Soar\nhttps://arxiv.org/p",
+      "Tracing the Evolution of Artificial Intelligence:\nA Review of Tools, Frameworks, and Technologies\n(1950\u20132025)\nGurpreet Singh\nWoosong University, South Korea\nTrina Banerjee\nSaks Global\nNishaa\nIndependent Researcher\nAbstract\nArtificial Intelligence (AI) has evolved remarkably over the past seven decad",
+      "31. (2024) \u2014 Role of tectonic stress and topography on repeated lateral dikes: application to the 1975-1984\nKrafla and 2023-2025 Svartsengi rifting episodes in Iceland.\nhttps://link.springer.com/content/pdf/10.1007/s00348-024-03814-z.pdf\n32. (1986) \u2014 Learning representations by back-propagating erro",
+      "Panvel Email:  shifapatel2110@gmail.com  \n3Department Of Information Technology ,C hangu Kana Thakur Arts, Commerce and Science College, New \nPanvel Email: sapnalawand0@gmail.com  \n \n*Corresponding Author : N.H. Patil  \n  *Assistant Professor, Department Of Information Technology, Changu Kana Thakur",
+      "Journal of Advanced Zoology   \n \nAvailable online at: https://jazindia.com                                                                                                                       233"
+    ]
+  },
+  {
+    "question": "Who coined the term Artificial Intelligence at the 1956 Dartmouth College conference, according to the Patil paper?",
+    "expected": "McCarthy",
+    "answer": "According to the Patil paper, the term \"Artificial Intelligence\" was officially coined and defined by John McCarthy at the 1956 Dartmouth College conference.",
+    "type": "answerable",
+    "correct": true,
+    "retrieval_hit": true,
+    "latency": 2.886962890625,
+    "retrieved": [
+      [
+        "Research_Paper_On_Artificial_Intelligence_And_Its.pdf",
+        2
+      ],
+      [
+        "Research_Paper_On_Artificial_Intelligence_And_Its.pdf",
+        2
+      ],
+      [
+        "Research_Paper_On_Artificial_Intelligence_And_Its.pdf",
+        1
+      ],
+      [
+        "Research_Paper_On_Artificial_Intelligence_And_Its.pdf",
+        0
+      ],
+      [
+        "Research_Paper_On_Artificial_Intelligence_And_Its.pdf",
+        1
+      ],
+      [
+        "Research_Paper_On_Artificial_Intelligence_And_Its.pdf",
+        0
+      ],
+      [
+        "Research_Paper_On_Artificial_Intelligence_And_Its.pdf",
+        0
+      ],
+      [
+        "Research_Paper_On_Artificial_Intelligence_And_Its.pdf",
+        9
+      ]
+    ],
+    "chunks": [
+      "Journal of Advanced Zoology   \n \nAvailable online at: https://jazindia.com                                                                                                                       231  intelligence and the goal of Artificial Intelligence (A.I.) have been the source of much c onfusion bo",
+      "leaders were influential, the field of AI as we know it owes more to McCarthy, Minsky, Newell, and Simon. \nWhile this is partly due to thei r own attendance of the famous 1951 Dartmouth conference, it is likely more \nsince they went on to establish three leading research centres which shaped the str",
+      "features of artificial Intelligence, intr oduction, definitions of AI, history, applications, growth and \nachievements.  \n \nEvolution of AI definition  \nAI has a history much longer than is commonly understood, in fields from science and philosophy ranging all \nthe way back to ancient Greece but its",
+      "Panvel Email:  shifapatel2110@gmail.com  \n3Department Of Information Technology ,C hangu Kana Thakur Arts, Commerce and Science College, New \nPanvel Email: sapnalawand0@gmail.com  \n \n*Corresponding Author : N.H. Patil  \n  *Assistant Professor, Department Of Information Technology, Changu Kana Thakur",
+      "It is the science and engineering of making intelligent machines, especially intelligent computer programs. It \nis related to the similar task of using computers to understand human intelligence, but AI does not have to \nconfine itself to methods that are biologically observable. While no co nsensua",
+      "technology in the field of education along with its meaning, searching \ntechniques, inventions and future.   \n                    \nINTRODUCTION  \n \nIt is claimed that artificial intelligence is playing an increasing role in the research of educational technology, \nmanagement sciences and operational",
+      "Available online at: https://jazindia.com                                                                                                                 229  Journal of Advanced Zoology  \nISSN : 0253 -7214  \nVolume 44 Issue S-8 Year 2023 Page 229 -238    \n___________________________________________",
+      "of AI research and IS, which provides a starting point for IS researchers and IS practitioners to advance the \nsocio -technica l knowledge surrounding AI. Thus, we make a call for future IS studies to examine AI, \nspecifically to how AI is defined in contemporary IS research.  \n \nReferences:  \n \n1. "
+    ]
+  },
+  {
+    "question": "Since which year has AI entered a new 'summer' period, according to the Patil paper?",
+    "expected": "2010",
+    "answer": "Since 2010, AI can be said to have once again entered a summer period.",
+    "type": "answerable",
+    "correct": true,
+    "retrieval_hit": true,
+    "latency": 3.7116260528564453,
+    "retrieved": [
+      [
+        "Research_Paper_On_Artificial_Intelligence_And_Its.pdf",
+        1
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        1
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        0
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        20
+      ],
+      [
+        "Research_Paper_On_Artificial_Intelligence_And_Its.pdf",
+        0
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        0
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        16
+      ],
+      [
+        "Research_Paper_On_Artificial_Intelligence_And_Its.pdf",
+        0
+      ]
+    ],
+    "chunks": [
+      "which allow algorithms to learn from themselves. Strong AI would be machines making their own rules and \nthen follow them, which is not possible at the stage of right now  \nAI has gone through many peak s and troughs since its early inception in the 1950s, usually referred to as AI \n\u201csummers and win",
+      "the earliest symbolic systems to the current multimodal and agentic era. This review aims to fill that gap by\nexamining over seven decades of AI development\u2014from early expert systems likeMYCINandDENDRAL\nto advanced generative models likeGPT-4,Gemini, andSora.\nWriting this paper in 2025 holds particu",
+      "rise of machine learning and statistical modeling (1980s\u20132000s), the deep learning revolution (2010s),\nand the recent explosion of generative and multimodal systems (2020\u20132025). Each phase reflects a major\nshift in how intelligence is defined, represented, and implemented\u2014from handcrafted logic to d",
+      "and intelligent systems 90.\n6 Multimodal & Generative AI Explosion (2020\u20132023)\n6.1 GPT-3 (2020)\nGPT-3 (Generative Pre-trained Transformer 3), released by OpenAI in 2020 91 , marked a major milestone in\nthe evolution of generative AI. With a staggering 175 billion parameters, GPT-3 dwarfed all previo",
+      "Panvel Email:  shifapatel2110@gmail.com  \n3Department Of Information Technology ,C hangu Kana Thakur Arts, Commerce and Science College, New \nPanvel Email: sapnalawand0@gmail.com  \n \n*Corresponding Author : N.H. Patil  \n  *Assistant Professor, Department Of Information Technology, Changu Kana Thakur",
+      "Tracing the Evolution of Artificial Intelligence:\nA Review of Tools, Frameworks, and Technologies\n(1950\u20132025)\nGurpreet Singh\nWoosong University, South Korea\nTrina Banerjee\nSaks Global\nNishaa\nIndependent Researcher\nAbstract\nArtificial Intelligence (AI) has evolved remarkably over the past seven decad",
+      "and explainable model building and deployment.\n5 Generative & Pretrained Model Era (2017\u20132020)\n5.1 Transformer Architecture (2017)\nThe Transformer architecture, introduced by Vaswani et al. in the landmark 2017 Google paper \u201cAttention Is\nAll You Need,\u201d revolutionized the field of natural language pr",
+      "Available online at: https://jazindia.com                                                                                                                 229  Journal of Advanced Zoology  \nISSN : 0253 -7214  \nVolume 44 Issue S-8 Year 2023 Page 229 -238    \n___________________________________________"
+    ]
+  },
+  {
+    "question": "How many studies on AI and ML in IS did the systematic literature review identify and analyse before narrowing to primary studies?",
+    "expected": "1877",
+    "answer": "The systematic literature review identified and analysed 1877 studies on AI and ML in IS before narrowing to primary studies.",
+    "type": "answerable",
+    "correct": true,
+    "retrieval_hit": true,
+    "latency": 3.417548179626465,
+    "retrieved": [
+      [
+        "Research_Paper_On_Artificial_Intelligence_And_Its.pdf",
+        3
+      ],
+      [
+        "Research_Paper_On_Artificial_Intelligence_And_Its.pdf",
+        9
+      ],
+      [
+        "Research_Paper_On_Artificial_Intelligence_And_Its.pdf",
+        9
+      ],
+      [
+        "Research_Paper_On_Artificial_Intelligence_And_Its.pdf",
+        2
+      ],
+      [
+        "Research_Paper_On_Artificial_Intelligence_And_Its.pdf",
+        9
+      ],
+      [
+        "Research_Paper_On_Artificial_Intelligence_And_Its.pdf",
+        2
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        34
+      ],
+      [
+        "Research_Paper_On_Artificial_Intelligence_And_Its.pdf",
+        1
+      ]
+    ],
+    "chunks": [
+      "Journal of Advanced Zoology   \n \nAvailable online at: https://jazindia.com                                                                                                                       232  In this study we conducted a SLR that provides a comprehensive overview on AI in IS related studies. B",
+      "academic studies on AI, especially regarding tools and models, (ii) be more detailed on the definition of AI \nused in studies, even when it is not the focus, and (iii) build on cumulative knowledge. Research on AI in IS is \nstill largely unexplored. While there is a relatively sizable amount of lite",
+      "Journal of Advanced Zoology   \n \nAvailable online at: https://jazindia.com                                                                                                                       238  Conclusion  \n \nThis systematic literature review study provides a structured unde rstanding of the sta",
+      "(2 steps), extraction (2 steps) and execution (2 steps) that are completed across 4 phases (see  Fig. 1 .). Each of \nthese four phases and  eight steps are discussed in detail in the remainder of the section.  \n \n \n \nDiscussion  \n \nThis section summarises the findings of the SLR and highlights some ",
+      "of AI research and IS, which provides a starting point for IS researchers and IS practitioners to advance the \nsocio -technica l knowledge surrounding AI. Thus, we make a call for future IS studies to examine AI, \nspecifically to how AI is defined in contemporary IS research.  \n \nReferences:  \n \n1. ",
+      "Intelligence usually means \u201c the ability to solve hard problems \u201d (Minsky, 1958 ). \n\u201cAI is concerned with methods of achieving goals in situations in which the information available has a certain \ncomplex character. The methods that have to be used are related to the problem presented by the situati",
+      "43. (2022) \u2014 Neural Networks and Learning Algorithms in MATLAB\nhttps://doi.org/10.1007/978-3-031-14571-1\n44. (2023) \u2014 Quantifying the Benefit of Artificial Intelligence for Scientific Research\nhttps://arxiv.org/pdf/2304.10578\n45. (2024) \u2014 Implementing a Hierarchical Deep Learning Approach for Simula",
+      "large, correctly annotated databases allowing for more sophisticated learning of intelligent systems ( Jain et al., \n2004 , Khashman, 2009 , PWC, 2019 ). \nDespite the length of time the field has existed, there is still no commonly accepted definition ( Allen, \n1998 , Bhatnagar et al., 2018 , Brachm"
+    ]
+  },
+  {
+    "question": "Whose systematic review process, consisting of 8 steps across 4 phases, is described in the Patil paper?",
+    "expected": "Okoli",
+    "answer": "Okoli (2015)",
+    "type": "answerable",
+    "correct": true,
+    "retrieval_hit": true,
+    "latency": 3.2602100372314453,
+    "retrieved": [
+      [
+        "Research_Paper_On_Artificial_Intelligence_And_Its.pdf",
+        2
+      ],
+      [
+        "Research_Paper_On_Artificial_Intelligence_And_Its.pdf",
+        2
+      ],
+      [
+        "Research_Paper_On_Artificial_Intelligence_And_Its.pdf",
+        0
+      ],
+      [
+        "Research_Paper_On_Artificial_Intelligence_And_Its.pdf",
+        0
+      ],
+      [
+        "Research_Paper_On_Artificial_Intelligence_And_Its.pdf",
+        9
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        1
+      ],
+      [
+        "Research_Paper_On_Artificial_Intelligence_And_Its.pdf",
+        3
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        31
+      ]
+    ],
+    "chunks": [
+      "(2 steps), extraction (2 steps) and execution (2 steps) that are completed across 4 phases (see  Fig. 1 .). Each of \nthese four phases and  eight steps are discussed in detail in the remainder of the section.  \n \n \n \nDiscussion  \n \nThis section summarises the findings of the SLR and highlights some ",
+      "Intelligence usually means \u201c the ability to solve hard problems \u201d (Minsky, 1958 ). \n\u201cAI is concerned with methods of achieving goals in situations in which the information available has a certain \ncomplex character. The methods that have to be used are related to the problem presented by the situati",
+      "Available online at: https://jazindia.com                                                                                                                 229  Journal of Advanced Zoology  \nISSN : 0253 -7214  \nVolume 44 Issue S-8 Year 2023 Page 229 -238    \n___________________________________________",
+      "Panvel Email:  shifapatel2110@gmail.com  \n3Department Of Information Technology ,C hangu Kana Thakur Arts, Commerce and Science College, New \nPanvel Email: sapnalawand0@gmail.com  \n \n*Corresponding Author : N.H. Patil  \n  *Assistant Professor, Department Of Information Technology, Changu Kana Thakur",
+      "Journal of Advanced Zoology   \n \nAvailable online at: https://jazindia.com                                                                                                                       238  Conclusion  \n \nThis systematic literature review study provides a structured unde rstanding of the sta",
+      "the earliest symbolic systems to the current multimodal and agentic era. This review aims to fill that gap by\nexamining over seven decades of AI development\u2014from early expert systems likeMYCINandDENDRAL\nto advanced generative models likeGPT-4,Gemini, andSora.\nWriting this paper in 2025 holds particu",
+      "Journal of Advanced Zoology   \n \nAvailable online at: https://jazindia.com                                                                                                                       232  In this study we conducted a SLR that provides a comprehensive overview on AI in IS related studies. B",
+      "cross-verifying, and weaving together information from dozens (or hundreds) of documents automatically.\nThis allows Perplexity to generate structured meta-analyses, literature reviews, or in-depth business/comparative\nreports within minutes, all fully citation-backed and with clear transparency into"
+    ]
+  },
+  {
+    "question": "What are the two vital aspects of machine vision mentioned in the Patil paper?",
+    "expected": "sensitivity",
+    "answer": "In machine vision, two vital aspects are sensitivity, which is the ability of the machine to perceive impulses that are weak, and resolution, the range to which the machine can distinguish the objects.",
+    "type": "answerable",
+    "correct": true,
+    "retrieval_hit": true,
+    "latency": 3.7376339435577393,
+    "retrieved": [
+      [
+        "Research_Paper_On_Artificial_Intelligence_And_Its.pdf",
+        6
+      ],
+      [
+        "Research_Paper_On_Artificial_Intelligence_And_Its.pdf",
+        6
+      ],
+      [
+        "Research_Paper_On_Artificial_Intelligence_And_Its.pdf",
+        0
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        9
+      ],
+      [
+        "Research_Paper_On_Artificial_Intelligence_And_Its.pdf",
+        1
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        9
+      ],
+      [
+        "Research_Paper_On_Artificial_Intelligence_And_Its.pdf",
+        0
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        9
+      ]
+    ],
+    "chunks": [
+      "resolution, the range to which the machine can distinguish the objects. The usage of machine vision can be \nfound in signature identification, pattern recognition, and me dical image analysis, etc.",
+      "productivity and in receiving cost -effective and more efficient results. Many organizations use machine \nlearning, neural networks, and graphs in automation. Such automation can prevent fraud issues while financial \ntransactions online by using CAPTCHA technol ogy. Robotic process automation is pro",
+      "Panvel Email:  shifapatel2110@gmail.com  \n3Department Of Information Technology ,C hangu Kana Thakur Arts, Commerce and Science College, New \nPanvel Email: sapnalawand0@gmail.com  \n \n*Corresponding Author : N.H. Patil  \n  *Assistant Professor, Department Of Information Technology, Changu Kana Thakur",
+      "demands of modern applications such as autonomous vehicles, augmented reality, robotics, and medical\nimaging.\nMathematically, OpenCV encapsulates a wide array of methods from classical computer vision like edge\ndetection, geometric transformations, and stereo vision to statistical and machine learni",
+      "It is the science and engineering of making intelligent machines, especially intelligent computer programs. It \nis related to the similar task of using computers to understand human intelligence, but AI does not have to \nconfine itself to methods that are biologically observable. While no co nsensua",
+      "This initiative sought to eliminate duplication of effort by offering a comprehensive and efficient collection\nof algorithms for real-time image and video analysis, benefiting researchers, developers, and commercial\napplications alike 39.\nDeveloped primarily in C and C++ with bindings for Python, Ja",
+      "Available online at: https://jazindia.com                                                                                                                 229  Journal of Advanced Zoology  \nISSN : 0253 -7214  \nVolume 44 Issue S-8 Year 2023 Page 229 -238    \n___________________________________________",
+      "Today, SVM remains a backbone method in classical machine learning, often contrasted with modern\ndeep learning approaches but still valued for its interpretability, mathematical clarity, and performance\non smaller datasets. Its influence continues in enhancing kernel methods, support vector regressi"
+    ]
+  },
+  {
+    "question": "Which two humanoid robots does the Patil paper name as examples of AI in robotics?",
+    "expected": "Sophia",
+    "answer": "Erica and Sophia",
+    "type": "answerable",
+    "correct": true,
+    "retrieval_hit": true,
+    "latency": 3.241966962814331,
+    "retrieved": [
+      [
+        "Research_Paper_On_Artificial_Intelligence_And_Its.pdf",
+        0
+      ],
+      [
+        "Research_Paper_on_Artificial_Intelligence.pdf",
+        2
+      ],
+      [
+        "Research_Paper_on_Artificial_Intelligence.pdf",
+        2
+      ],
+      [
+        "Research_Paper_On_Artificial_Intelligence_And_Its.pdf",
+        0
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        32
+      ],
+      [
+        "Research_Paper_On_Artificial_Intelligence_And_Its.pdf",
+        8
+      ],
+      [
+        "Research_Paper_on_Artificial_Intelligence.pdf",
+        0
+      ],
+      [
+        "Research_Paper_On_Artificial_Intelligence_And_Its.pdf",
+        9
+      ]
+    ],
+    "chunks": [
+      "Panvel Email:  shifapatel2110@gmail.com  \n3Department Of Information Technology ,C hangu Kana Thakur Arts, Commerce and Science College, New \nPanvel Email: sapnalawand0@gmail.com  \n \n*Corresponding Author : N.H. Patil  \n  *Assistant Professor, Department Of Information Technology, Changu Kana Thakur",
+      "Ijecs 02 February Rajiv Gupta Research Paper on Artificial Intelligence  \n Page | \n25656  artificial  intelligence  m a d a r , but the c h o d \ncourse  of making  machines  like ourselves  is on its \npath.  \n \nFuture  Scope  \nIt is not easy to predict  the future  of Artificial  \nintelligence.  Art",
+      "will find our work  done  by machines  and a robot  \nwalking  with us. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n References  \n \n[1] http://en.wikipedia.org/wiki/Artificial_intellig\nen ce#CITEREFPooleMackworthGoebel1998  \n[2] http://en.wi kipedia.org/wiki/Artificial_intellig",
+      "Available online at: https://jazindia.com                                                                                                                 229  Journal of Advanced Zoology  \nISSN : 0253 -7214  \nVolume 44 Issue S-8 Year 2023 Page 229 -238    \n___________________________________________",
+      "https://link.springer.com/content/pdf/10.1007/s00146-023-01793-z.pdf\n10. (1988) \u2014 SHRDLU, Procedures, Mini-World\nhttps://doi.org/10.1007/978-1-349-19404-9_20\n11. (2005) \u2014 \u00a1scp\u00bfSHRDLU\u00a1/scp\u00bf\nhttps://doi.org/10.1002/0470018860.s00056\n12. (2019) \u2014 Survey on frontiers of language and robotics\nhttps://www",
+      "developing self -driven cars which can make your journey more safe and secure.  \n8. AI in Robotics:  \nArtificial Intelligence has a remarkable role in Robotics. Usually, gen eral robots are programmed such that \nthey can perform some repetitive task, but with the help of AI, we can create intelligen",
+      "www.ijecs.in  \nInternational Journal Of Engineering And Computer Science  \nVolume  12 Issue  02, February 2023 , Page  No.25654 -25656  \nISSN:  2319 -7242  DOI: 10.18535/ijecs/v11i02 .4671  \n \n \n \n7  Ijecs 02 February Rajiv Gupta Research Paper on Artificial Intelligence  \n \nPage | \n25654  Research ",
+      "of AI research and IS, which provides a starting point for IS researchers and IS practitioners to advance the \nsocio -technica l knowledge surrounding AI. Thus, we make a call for future IS studies to examine AI, \nspecifically to how AI is defined in contemporary IS research.  \n \nReferences:  \n \n1. "
+    ]
+  },
+  {
+    "question": "What is the name of the intelligent virtual assistant introduced by Tesla, according to the Patil paper?",
+    "expected": "TeslaBot",
+    "answer": "Tesla has introduced TeslaBot, an intelligent virtual assistant.",
+    "type": "answerable",
+    "correct": true,
+    "retrieval_hit": true,
+    "latency": 2.747485876083374,
+    "retrieved": [
+      [
+        "Research_Paper_On_Artificial_Intelligence_And_Its.pdf",
+        0
+      ],
+      [
+        "Research_Paper_On_Artificial_Intelligence_And_Its.pdf",
+        0
+      ],
+      [
+        "Research_Paper_On_Artificial_Intelligence_And_Its.pdf",
+        8
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        20
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        24
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        24
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        24
+      ],
+      [
+        "Research_Paper_On_Artificial_Intelligence_And_Its.pdf",
+        8
+      ]
+    ],
+    "chunks": [
+      "Panvel Email:  shifapatel2110@gmail.com  \n3Department Of Information Technology ,C hangu Kana Thakur Arts, Commerce and Science College, New \nPanvel Email: sapnalawand0@gmail.com  \n \n*Corresponding Author : N.H. Patil  \n  *Assistant Professor, Department Of Information Technology, Changu Kana Thakur",
+      "Available online at: https://jazindia.com                                                                                                                 229  Journal of Advanced Zoology  \nISSN : 0253 -7214  \nVolume 44 Issue S-8 Year 2023 Page 229 -238    \n___________________________________________",
+      "Journal of Advanced Zoology   \n \nAvailable online at: https://jazindia.com                                                                                                                       237  AI is becoming highly demanding for travel industries. AI is capable of doing various travel related w",
+      "and intelligent systems 90.\n6 Multimodal & Generative AI Explosion (2020\u20132023)\n6.1 GPT-3 (2020)\nGPT-3 (Generative Pre-trained Transformer 3), released by OpenAI in 2020 91 , marked a major milestone in\nthe evolution of generative AI. With a staggering 175 billion parameters, GPT-3 dwarfed all previo",
+      "Whisper\u2019s ability to generalize across languages, accents, and environments has made it a foundational\ntechnology in the global push for inclusive, AI-powered speech and language tools. Moreover, its transparent\nrelease set a benchmark for openness in AI development, supporting further innovation in",
+      "integrating it into personal and professional routines for Q&A, drafting content, brainstorming, tutoring,\ntechnical assistance, and creative writing. The system\u2019s ability to provide coherent, contextually relevant,\nand human-like responses\u2014often with nuanced understanding and personality\u2014demonstrat",
+      "outputs. This combination made ChatGPT surprisingly capable at not just answering questions, but engag-\ning in back-and-forth exchanges, reasoning through ambiguity, admitting mistakes, and playfully challenging\nincorrect premises 116.\nChatGPT\u2019s underlying models evolved rapidly: starting with GPT-3",
+      "developing self -driven cars which can make your journey more safe and secure.  \n8. AI in Robotics:  \nArtificial Intelligence has a remarkable role in Robotics. Usually, gen eral robots are programmed such that \nthey can perform some repetitive task, but with the help of AI, we can create intelligen"
+    ]
+  },
+  {
+    "question": "How many of the first 52 theorems in chapter two of Principia Mathematica did the Logic Theorist prove?",
+    "expected": "38",
+    "answer": "The Logic Theorist successfully proved 38 of the first 52 theorems in chapter two of Principia Mathematica.",
+    "type": "answerable",
+    "correct": true,
+    "retrieval_hit": true,
+    "latency": 17.34726572036743,
+    "retrieved": [
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        1
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        1
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        1
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        31
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        1
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        2
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        32
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        5
+      ]
+    ],
+    "chunks": [
+      "mimic human problem-solving and reasoning skills. Its primary goal was to prove mathematical theorems,\nspecifically those found in the seminal work Principia Mathematica by Alfred North Whitehead and Bertrand\nRussell. The program demonstrated that a machine could engage in automated reasoning by suc",
+      "proof. The discovery of novel proofs for certain theorems, such as theorem 2.85, highlighted its capability\nnot only to replicate but to improve upon human mathematical reasoning 5.\nThe impact of the Logic Theorist on AI and cognitive science was profound. It marked the first practical\ndemonstration",
+      "the team implemented the Logic Theorist using handwritten cards that were distributed among collaborators\nand later run on computers available at RAND 3. This development also led to the creation of the Informa-\ntion Processing Language (IPL), which facilitated list processing and symbolic computati",
+      "2. (1964) \u2014 Experiments with a theorem-utilizing program\nhttps://doi.org/10.1145/1464122.1464157\n3. (2022) \u2014 What is Mathematics and What Should it Be\nhttps://arxiv.org/pdf/1704.05560\n4. (2008) \u2014 Principia Mathematica and the Development of Automated Theorem Proving\nhttps://doi.org/10.1007/978-0-817",
+      "logical expressions symbolically and searched through combinations of these expressions to construct proofs.\nIt used heuristics to efficiently navigate the tree of possible inferences, thus avoiding an exhaustive and\ncomputationally prohibitive search through all branches. This heuristic approach wa",
+      "computer science. The Logic Theorist remains a landmark in AI history, illustrating the power of symbolic\nAI and heuristic-driven problem solving in the early quest to imitate human thought through machines\n2.2 ELIZA (1966)\nELIZA, developed in 1966 by Joseph Weizenbaum at MIT, is one of the earliest",
+      "5. (2006) \u2014 Newell and Simon\u2019s Logic Theorist: Historical Background and Impact on Cognitive Modeling\nhttps://doi.org/10.1177/154193120605000904\n6. (2023) \u2014 Role of tectonic stress and topography on repeated lateral dikes: application to the 1975-1984\nKrafla and 2023-2025 Svartsengi rifting episodes",
+      "enabling applications in expert systems, theorem proving, language parsing, knowledge representation, and\nautomated planning.\nHistorically, Prolog gained international prominence during the 1980s particularly with the Japanese\nFifth Generation Computer Systems project, which sought to leverage logic"
+    ]
+  },
+  {
+    "question": "Who developed ELIZA?",
+    "expected": "Weizenbaum",
+    "answer": "ELIZA was developed by Joseph Weizenbaum at MIT.",
+    "type": "answerable",
+    "correct": true,
+    "retrieval_hit": true,
+    "latency": 2.0536320209503174,
+    "retrieved": [
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        2
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        2
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        2
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        2
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        32
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        2
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        5
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        5
+      ]
+    ],
+    "chunks": [
+      "machines and the nature of intelligence. Interestingly, Weizenbaum himself was surprised and troubled by\nhow readily some users, including his own secretary, formed emotional connections with ELIZA, underscoring\nthe powerful illusion of understanding it created.\nThe development of ELIZA marked a sig",
+      "continue dialogue . For instance, when a user expressed feelings of sadness or worry, ELIZA would respond\nwith inquiries prompting further reflection, employing simple yet effective mechanisms to seem empathetic\nand human-like.\nELIZA\u2019s architecture was based on symbolic processing where user inputs ",
+      "computer science. The Logic Theorist remains a landmark in AI history, illustrating the power of symbolic\nAI and heuristic-driven problem solving in the early quest to imitate human thought through machines\n2.2 ELIZA (1966)\nELIZA, developed in 1966 by Joseph Weizenbaum at MIT, is one of the earliest",
+      "AI, since the program could simulate empathy without actual cognitive or emotional processing. Weizenbaum\nstressed that ELIZA was a tool, not a sentient entity, cautioning against overestimating what machines can\nreplicate in terms of human thought and feeling 8.\nIn summary, ELIZA represents a pione",
+      "5. (2006) \u2014 Newell and Simon\u2019s Logic Theorist: Historical Background and Impact on Cognitive Modeling\nhttps://doi.org/10.1177/154193120605000904\n6. (2023) \u2014 Role of tectonic stress and topography on repeated lateral dikes: application to the 1975-1984\nKrafla and 2023-2025 Svartsengi rifting episodes",
+      "demonstrating the potentials and boundaries of early conversational AI 9\n2.3 SHRDLU (1970)\nSHRDLU, developed between 1968 and 1970 by Terry Winograd at MIT as part of his PhD thesis, represents\na pioneering natural language understanding system that could interpret and execute commands within a\nsimp",
+      "and computational linguistics 21.\n2.7 LISP (1958)\nLISP, created in 1958 by John McCarthy at MIT, is one of the oldest and most influential programming\nlanguages in the field of artificial intelligence. McCarthy designed LISP with the explicit goal of providing\na powerful and flexible language specif",
+      "quickly abandoned in favor of \u201dS-expressions,\u201d a more straightforward parenthesized prefix notation that\nbecame the hallmark of LISP\u2019s syntax. The first LISP interpreter was implemented by Steve Russell on an\nIBM 704, surprising McCarthy by demonstrating that the eval function\u2014a core evaluation proc"
+    ]
+  },
+  {
+    "question": "What was the name of ELIZA's most famous script that simulated a Rogerian psychotherapist?",
+    "expected": "DOCTOR",
+    "answer": "The most famous script, known as \"DOCTOR,\" simulated a Rogerian psychotherapist.",
+    "type": "answerable",
+    "correct": true,
+    "retrieval_hit": true,
+    "latency": 2.1066150665283203,
+    "retrieved": [
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        2
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        2
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        2
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        2
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        32
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        2
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        2
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        32
+      ]
+    ],
+    "chunks": [
+      "continue dialogue . For instance, when a user expressed feelings of sadness or worry, ELIZA would respond\nwith inquiries prompting further reflection, employing simple yet effective mechanisms to seem empathetic\nand human-like.\nELIZA\u2019s architecture was based on symbolic processing where user inputs ",
+      "machines and the nature of intelligence. Interestingly, Weizenbaum himself was surprised and troubled by\nhow readily some users, including his own secretary, formed emotional connections with ELIZA, underscoring\nthe powerful illusion of understanding it created.\nThe development of ELIZA marked a sig",
+      "computer science. The Logic Theorist remains a landmark in AI history, illustrating the power of symbolic\nAI and heuristic-driven problem solving in the early quest to imitate human thought through machines\n2.2 ELIZA (1966)\nELIZA, developed in 1966 by Joseph Weizenbaum at MIT, is one of the earliest",
+      "AI, since the program could simulate empathy without actual cognitive or emotional processing. Weizenbaum\nstressed that ELIZA was a tool, not a sentient entity, cautioning against overestimating what machines can\nreplicate in terms of human thought and feeling 8.\nIn summary, ELIZA represents a pione",
+      "5. (2006) \u2014 Newell and Simon\u2019s Logic Theorist: Historical Background and Impact on Cognitive Modeling\nhttps://doi.org/10.1177/154193120605000904\n6. (2023) \u2014 Role of tectonic stress and topography on repeated lateral dikes: application to the 1975-1984\nKrafla and 2023-2025 Svartsengi rifting episodes",
+      "demonstrating the potentials and boundaries of early conversational AI 9\n2.3 SHRDLU (1970)\nSHRDLU, developed between 1968 and 1970 by Terry Winograd at MIT as part of his PhD thesis, represents\na pioneering natural language understanding system that could interpret and execute commands within a\nsimp",
+      "allowed both commands and queries, making it an early example of an interactive AI system capable of\nunderstanding and reasoning about language and its referents in a controlled world 10.\nFrom a technical standpoint, SHRDLU combined syntax parsing, semantic interpretation, and a form of\nprocedural k",
+      "https://link.springer.com/content/pdf/10.1007/s00146-023-01793-z.pdf\n10. (1988) \u2014 SHRDLU, Procedures, Mini-World\nhttps://doi.org/10.1007/978-1-349-19404-9_20\n11. (2005) \u2014 \u00a1scp\u00bfSHRDLU\u00a1/scp\u00bf\nhttps://doi.org/10.1002/0470018860.s00056\n12. (2019) \u2014 Survey on frontiers of language and robotics\nhttps://www"
+    ]
+  },
+  {
+    "question": "On which computer was SHRDLU implemented?",
+    "expected": "PDP-6",
+    "answer": "SHRDLU was implemented on a DEC PDP-6 computer.",
+    "type": "answerable",
+    "correct": true,
+    "retrieval_hit": true,
+    "latency": 1.839688777923584,
+    "retrieved": [
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        2
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        3
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        3
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        2
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        32
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        32
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        2
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        5
+      ]
+    ],
+    "chunks": [
+      "allowed both commands and queries, making it an early example of an interactive AI system capable of\nunderstanding and reasoning about language and its referents in a controlled world 10.\nFrom a technical standpoint, SHRDLU combined syntax parsing, semantic interpretation, and a form of\nprocedural k",
+      "an integrated approach to natural language processing, combining syntax, semantics, and pragmatics within\na finite domain. SHRDLU\u2019s knowledge base was dynamic, maintaining an up-to-date model of the world\u2019s\nstate, which it could modify as it executed actions or learned new commands. The logical foun",
+      "lighting the possibility of interactive AI systems that understand human language contextually. It influenced\nsubsequent research in computational linguistics, human-computer interaction, and AI, laying a foundation\nfor modern dialogue systems, virtual assistants, and robotic control by natural lang",
+      "demonstrating the potentials and boundaries of early conversational AI 9\n2.3 SHRDLU (1970)\nSHRDLU, developed between 1968 and 1970 by Terry Winograd at MIT as part of his PhD thesis, represents\na pioneering natural language understanding system that could interpret and execute commands within a\nsimp",
+      "https://link.springer.com/content/pdf/10.1007/s00146-023-01793-z.pdf\n10. (1988) \u2014 SHRDLU, Procedures, Mini-World\nhttps://doi.org/10.1007/978-1-349-19404-9_20\n11. (2005) \u2014 \u00a1scp\u00bfSHRDLU\u00a1/scp\u00bf\nhttps://doi.org/10.1002/0470018860.s00056\n12. (2019) \u2014 Survey on frontiers of language and robotics\nhttps://www",
+      "5. (2006) \u2014 Newell and Simon\u2019s Logic Theorist: Historical Background and Impact on Cognitive Modeling\nhttps://doi.org/10.1177/154193120605000904\n6. (2023) \u2014 Role of tectonic stress and topography on repeated lateral dikes: application to the 1975-1984\nKrafla and 2023-2025 Svartsengi rifting episodes",
+      "AI, since the program could simulate empathy without actual cognitive or emotional processing. Weizenbaum\nstressed that ELIZA was a tool, not a sentient entity, cautioning against overestimating what machines can\nreplicate in terms of human thought and feeling 8.\nIn summary, ELIZA represents a pione",
+      "quickly abandoned in favor of \u201dS-expressions,\u201d a more straightforward parenthesized prefix notation that\nbecame the hallmark of LISP\u2019s syntax. The first LISP interpreter was implemented by Steve Russell on an\nIBM 704, surprising McCarthy by demonstrating that the eval function\u2014a core evaluation proc"
+    ]
+  },
+  {
+    "question": "Approximately how many production rules did MYCIN's knowledge base contain?",
+    "expected": "600",
+    "answer": "MYCIN's knowledge base contained approximately 600 production rules.",
+    "type": "answerable",
+    "correct": true,
+    "retrieval_hit": true,
+    "latency": 5.588042736053467,
+    "retrieved": [
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        4
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        4
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        4
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        4
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        32
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        3
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        32
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        6
+      ]
+    ],
+    "chunks": [
+      "that led to its conclusions, addressing concerns about transparency and trust in AI systems for medical\ndecision-making 17.\nFrom a mathematical and logical perspective, MYCIN relied on production rules\u2014if-then statements\nrepresenting clinical knowledge\u2014and heuristic-driven backward chaining to effic",
+      "through heuristic symbolic reasoning, foundational to AI\u2019s evolution in expert knowledge representation and\nautomated problem-solving.\n2.5 MYCIN (1972)\nMYCIN, developed in the early 1970s at Stanford University by Edward Shortliffe and colleagues, is a\npioneering rule-based expert system designed to",
+      "list of potential causative bacteria with associated confidence levels and provided tailored antibiotic therapy\nsuggestions, adjusting dosages based on patient-specific factors such as body weight 16.\nTechnically, MYCIN\u2019s architecture distinguished itself by clearly separating its inference procedur",
+      "specialists. Its success inspired numerous subsequent expert systems and contributed significantly to the\ndevelopment of knowledge engineering, rule-based reasoning, and explanation facilities in AI. MYCIN also\nsparked discussions on the ethical and practical implications of AI in clinical settings,",
+      "https://doi.org/10.1007/978-1-4612-5108-8_1\n17. (1974) \u2014 A rule-based computer program for advising physicians regarding antimicrobial therapy\nselection\nhttps://dl.acm.org/doi/pdf/10.1145/1408800.1408906\n18. (2018) \u2014 Studying microbial functionality within the gut ecosystem by systems biology\nhttps:",
+      "possible molecular structures but also to predict their corresponding mass spectra and compare them with\nthe experimental data to select the most plausible hypotheses 13.\nThe architecture of DENDRAL was characterized by a clear separation between its knowledge base and\ninference engine, forming a pa",
+      "https://link.springer.com/content/pdf/10.1007/s00146-023-01793-z.pdf\n10. (1988) \u2014 SHRDLU, Procedures, Mini-World\nhttps://doi.org/10.1007/978-1-349-19404-9_20\n11. (2005) \u2014 \u00a1scp\u00bfSHRDLU\u00a1/scp\u00bf\nhttps://doi.org/10.1002/0470018860.s00056\n12. (2019) \u2014 Survey on frontiers of language and robotics\nhttps://www",
+      "encoded as if-then production rules (condition-action pairs) that match against the contents of working mem-\nory. Unlike other systems, SOAR fires all matching rules in parallel, allowing concurrent context-dependent\nretrieval of knowledge. When the system encounters an impasse\u2014lacking knowledge to "
+    ]
+  },
+  {
+    "question": "Who created the Prolog language at Aix-Marseille University?",
+    "expected": "Colmerauer",
+    "answer": "Prolog, created in 1972 by Alain Colmerauer and Philippe Roussel at Aix-Marseille University in France.",
+    "type": "answerable",
+    "correct": true,
+    "retrieval_hit": true,
+    "latency": 2.334697961807251,
+    "retrieved": [
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        4
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        4
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        5
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        5
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        32
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        4
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        5
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        5
+      ]
+    ],
+    "chunks": [
+      "milestone in the history of artificial intelligence and medical informatics.\n2.6 PROLOG (1972)\nProlog, created in 1972 by Alain Colmerauer and Philippe Roussel at Aix-Marseille University in France, is a\nlogic programming language foundational to artificial intelligence and natural language processi",
+      "theorem proving, and natural language understanding, making it particularly suited for AI applications 19.\nThe language emerged from combining two efforts: Alain Colmerauer\u2019s focus on natural language pro-\ncessing and Robert Kowalski\u2019s theoretical work on the procedural interpretation of logic. The ",
+      "implementation. This contributed significantly to Prolog\u2019s widespread adoption and the establishment of the\nEdinburgh syntax standard that most Prolog implementations follow. Prolog\u2019s logical foundation centers on\nHorn clauses that define relations, with computations being queries that the interpret",
+      "enabling applications in expert systems, theorem proving, language parsing, knowledge representation, and\nautomated planning.\nHistorically, Prolog gained international prominence during the 1980s particularly with the Japanese\nFifth Generation Computer Systems project, which sought to leverage logic",
+      "https://doi.org/10.1007/978-1-4612-5108-8_1\n17. (1974) \u2014 A rule-based computer program for advising physicians regarding antimicrobial therapy\nselection\nhttps://dl.acm.org/doi/pdf/10.1145/1408800.1408906\n18. (2018) \u2014 Studying microbial functionality within the gut ecosystem by systems biology\nhttps:",
+      "specialists. Its success inspired numerous subsequent expert systems and contributed significantly to the\ndevelopment of knowledge engineering, rule-based reasoning, and explanation facilities in AI. MYCIN also\nsparked discussions on the ethical and practical implications of AI in clinical settings,",
+      "and computational linguistics 21.\n2.7 LISP (1958)\nLISP, created in 1958 by John McCarthy at MIT, is one of the oldest and most influential programming\nlanguages in the field of artificial intelligence. McCarthy designed LISP with the explicit goal of providing\na powerful and flexible language specif",
+      "pinnings, and its critical role as the dominant AI programming language for decades.\n3 The Rise of Machine Learning (1980s\u20132000s)\n3.1 SOAR (1983)\nSOAR, developed in 1983 by John Laird, Allen Newell, and Paul Rosenbloom at Carnegie Mellon Univer-\nsity, is a pioneering cognitive architecture designed "
+    ]
+  },
+  {
+    "question": "Who created the LISP programming language in 1958?",
+    "expected": "McCarthy",
+    "answer": "LISP, created in 1958 by John McCarthy at MIT.",
+    "type": "answerable",
+    "correct": true,
+    "retrieval_hit": true,
+    "latency": 2.18845796585083,
+    "retrieved": [
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        5
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        5
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        5
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        5
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        32
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        33
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        4
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        4
+      ]
+    ],
+    "chunks": [
+      "and computational linguistics 21.\n2.7 LISP (1958)\nLISP, created in 1958 by John McCarthy at MIT, is one of the oldest and most influential programming\nlanguages in the field of artificial intelligence. McCarthy designed LISP with the explicit goal of providing\na powerful and flexible language specif",
+      "quickly abandoned in favor of \u201dS-expressions,\u201d a more straightforward parenthesized prefix notation that\nbecame the hallmark of LISP\u2019s syntax. The first LISP interpreter was implemented by Steve Russell on an\nIBM 704, surprising McCarthy by demonstrating that the eval function\u2014a core evaluation proc",
+      "enabling applications in expert systems, theorem proving, language parsing, knowledge representation, and\nautomated planning.\nHistorically, Prolog gained international prominence during the 1980s particularly with the Japanese\nFifth Generation Computer Systems project, which sought to leverage logic",
+      "languages like Scheme and Common Lisp. LISP introduced concepts critical to AI, including symbolic rea-\nsoning, code as data (homoiconicity), and advanced macro systems, which helped AI researchers experiment\nwith new ideas efficiently. Common Lisp, standardized in the 1980s and 1990s, unified vario",
+      "https://doi.org/10.1007/978-1-4612-5108-8_1\n17. (1974) \u2014 A rule-based computer program for advising physicians regarding antimicrobial therapy\nselection\nhttps://dl.acm.org/doi/pdf/10.1145/1408800.1408906\n18. (2018) \u2014 Studying microbial functionality within the gut ecosystem by systems biology\nhttps:",
+      "24. (1978) \u2014 History of LISP\nhttps://dl.acm.org/doi/pdf/10.1145/960118.808387\n25. (2022) \u2014 Introduction to Soar\nhttps://arxiv.org/pdf/2205.03854\n26. (1986) \u2014 Soar\u2014A General Problem-Solving Architecture\nhttps://doi.org/10.1007/978-1-4613-2277-1_15\n27. (2022) \u2014 Introduction to Soar\nhttps://arxiv.org/p",
+      "theorem proving, and natural language understanding, making it particularly suited for AI applications 19.\nThe language emerged from combining two efforts: Alain Colmerauer\u2019s focus on natural language pro-\ncessing and Robert Kowalski\u2019s theoretical work on the procedural interpretation of logic. The ",
+      "milestone in the history of artificial intelligence and medical informatics.\n2.6 PROLOG (1972)\nProlog, created in 1972 by Alain Colmerauer and Philippe Roussel at Aix-Marseille University in France, is a\nlogic programming language foundational to artificial intelligence and natural language processi"
+    ]
+  },
+  {
+    "question": "Who developed ALVINN, the neural network for autonomous vehicle navigation?",
+    "expected": "Pomerleau",
+    "answer": "Dean Pomerleau developed ALVINN.",
+    "type": "answerable",
+    "correct": true,
+    "retrieval_hit": true,
+    "latency": 2.648916006088257,
+    "retrieved": [
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        6
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        6
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        7
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        6
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        7
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        9
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        11
+      ],
+      [
+        "Research_Paper_On_Artificial_Intelligence_And_Its.pdf",
+        7
+      ]
+    ],
+    "chunks": [
+      "Operationally, ALVINN was deployed on the NAVLAB autonomous test vehicle, demonstrating its ability to\nnavigate complex outdoor environments\u2014including varied weather conditions\u2014at speeds competitive with\ntraditional computer vision approaches of the time. This success illustrated the promise of adap",
+      "sensory data from a forward-facing camera and a laser range finder, processing images and depth information\nto produce steering commands for the vehicle. The architecture comprised roughly 1217 input units, a hidden\nlayer with 29 units, and an output layer with 46 units dedicated to representing a r",
+      "mapping from high-dimensional sensory input spaces (images and range data) to control actions. The use\nof feedback units introduced an element of temporal memory, allowing the network to incorporate informa-\ntion about the recent past into its decision-making process\u2014related conceptually to what wou",
+      "of Michigan, SOAR remains a seminal reference point for cognitive architectures, continuing to influence\ntheories of general intelligence by bridging formal computational models with empirical cognitive science\ninsights.\nThis detailed exploration covers SOAR\u2019s theoretical foundations, developmental ",
+      "learning, and robust training strategies in autonomous navigation, and its design principles form the basis\nfor many modern AI-based self-driving systems 31.\n3.3 Backpropagation Algorithm (1986)\nThe backpropagation algorithm, popularized in 1986 by David Rumelhart, Geoffrey Hinton, and Ronald\nWillia",
+      "This initiative sought to eliminate duplication of effort by offering a comprehensive and efficient collection\nof algorithms for real-time image and video analysis, benefiting researchers, developers, and commercial\napplications alike 39.\nDeveloped primarily in C and C++ with bindings for Python, Ja",
+      "(CNNs) and other deep learning models, especially in computer vision. The framework allows users to\ndefine, train, and deploy deep networks using configuration files without hard-coding, which encourages easy\nexperimentation and innovation 46.\nCaffe\u2019s architecture is built in C++ with a Python inter",
+      "virtually any nonlinear function to a required degree of accuracy. NNs typically are provide d with a set of input \nand output exemplars. A learning algorithm (such as back propagation) would then be used to adjust the weights \nin the network so that the network would give the desired output, in a t"
+    ]
+  },
+  {
+    "question": "At which university was WEKA developed?",
+    "expected": "Waikato",
+    "answer": "WEKA was developed at the University of Waikato in New Zealand.",
+    "type": "answerable",
+    "correct": true,
+    "retrieval_hit": true,
+    "latency": 3.9547598361968994,
+    "retrieved": [
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        8
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        7
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        8
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        7
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        8
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        10
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        33
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        15
+      ]
+    ],
+    "chunks": [
+      "and horticultural data applications in mind, but it has since evolved to support a diverse array of domains\nand data types 34.\nWEKA\u2019s architecture centers around modular components that perform key data mining tasks: clas-\nsification, regression, clustering, association rule mining, and feature sele",
+      "collection of machine learning algorithms with tools for data preprocessing, visualization, and evaluation,\nall accessible through user-friendly graphical interfaces. Originally, WEKA was developed with agricultural\n8",
+      "applications 35.\nTechnically, WEKA is implemented in Java, making it highly portable across operating systems and\neasy to extend with new algorithms. It processes input in the attribute-relation file format (ARFF) but\nalso supports various data formats through database connectivity and file import/e",
+      "of neural network training, supported by abundant optimizations, regularization methods, and variants that\nhave further expanded the reach of AI solutions 33.\nIn essence, backpropagation combines deep mathematical concepts from calculus with computational\nstrategies to effectively optimize multilaye",
+      "comparative evaluation approaches including cross-validation and receiver operating characteristic (ROC)\nanalysis, facilitating rigorous empirical assessment of model performance\u2014an essential pillar of machine\nlearning research methodology.\nWEKA\u2019s impact is significant as it democratized access to m",
+      "AI technologies, enabling engineers and scientists to develop new AI methods and apply them to complex\nreal-world problems efficiently 44 .\n3.8 Scikit-learn (2007\u20132010)\nScikit-learn (also known as sklearn), developed between 2007 and 2010, is a widely acclaimed open-source\nmachine learning library f",
+      "31. (2024) \u2014 Role of tectonic stress and topography on repeated lateral dikes: application to the 1975-1984\nKrafla and 2023-2025 Svartsengi rifting episodes in Iceland.\nhttps://link.springer.com/content/pdf/10.1007/s00348-024-03814-z.pdf\n32. (1986) \u2014 Learning representations by back-propagating erro",
+      "of democratizing AI for individuals and businesses. Its most recognized platform, H2O, and subsequent Au-\ntoML offerings emerged as early leaders in delivering powerful, accessible machine learning solutions suitable\nfor practitioners with varying technical expertise. The core H2O platform, commonly"
+    ]
+  },
+  {
+    "question": "Who introduced Support Vector Machines in the 1995 paper at AT&T Bell Laboratories?",
+    "expected": "Cortes",
+    "answer": "Corinna Cortes and Vladimir Vapnik.",
+    "type": "answerable",
+    "correct": true,
+    "retrieval_hit": true,
+    "latency": 2.8923721313476562,
+    "retrieved": [
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        8
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        8
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        8
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        8
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        9
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        33
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        8
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        7
+      ]
+    ],
+    "chunks": [
+      "widely recognized form through the seminal 1995 paper by Corinna Cortes and Vladimir Vapnik at AT&T\nBell Laboratories. Building on foundational work by Vapnik and Alexey Chervonenkis dating back to\nthe 1960s and 1970s, SVM formalized a powerful approach to binary classification by finding the optima",
+      "efficiency, versatility across domains, and theoretical elegance made it a core machine learning tool from\nthe mid-1990s onward, with applications spanning image recognition, bioinformatics, text classification, and\nmany others. The 1995 paper by Cortes and Vapnik is regarded as a breakthrough that ",
+      "\u2225w\u2225is maximized under the constraints\nyi(w\u00b7x i+b)\u22651,\u2200i.\n. The resulting convex optimization problem can be solved efficiently using quadratic programming. To\nhandle non-linearly separable data, Cortes and Vapnik introduced the \u201dsoft margin\u201d formulation, allowing\nsome misclassification controlled by ",
+      "comparative evaluation approaches including cross-validation and receiver operating characteristic (ROC)\nanalysis, facilitating rigorous empirical assessment of model performance\u2014an essential pillar of machine\nlearning research methodology.\nWEKA\u2019s impact is significant as it democratized access to m",
+      "Today, SVM remains a backbone method in classical machine learning, often contrasted with modern\ndeep learning approaches but still valued for its interpretability, mathematical clarity, and performance\non smaller datasets. Its influence continues in enhancing kernel methods, support vector regressi",
+      "31. (2024) \u2014 Role of tectonic stress and topography on repeated lateral dikes: application to the 1975-1984\nKrafla and 2023-2025 Svartsengi rifting episodes in Iceland.\nhttps://link.springer.com/content/pdf/10.1007/s00348-024-03814-z.pdf\n32. (1986) \u2014 Learning representations by back-propagating erro",
+      "applications 35.\nTechnically, WEKA is implemented in Java, making it highly portable across operating systems and\neasy to extend with new algorithms. It processes input in the attribute-relation file format (ARFF) but\nalso supports various data formats through database connectivity and file import/e",
+      "of neural network training, supported by abundant optimizations, regularization methods, and variants that\nhave further expanded the reach of AI solutions 33.\nIn essence, backpropagation combines deep mathematical concepts from calculus with computational\nstrategies to effectively optimize multilaye"
+    ]
+  },
+  {
+    "question": "Who developed the Caffe deep learning framework at UC Berkeley?",
+    "expected": "Jia",
+    "answer": "Yangqing Jia developed the Caffe deep learning framework at UC Berkeley.",
+    "type": "answerable",
+    "correct": true,
+    "retrieval_hit": true,
+    "latency": 2.660090923309326,
+    "retrieved": [
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        11
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        11
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        11
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        11
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        34
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        14
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        12
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        12
+      ]
+    ],
+    "chunks": [
+      "(CNNs) and other deep learning models, especially in computer vision. The framework allows users to\ndefine, train, and deploy deep networks using configuration files without hard-coding, which encourages easy\nexperimentation and innovation 46.\nCaffe\u2019s architecture is built in C++ with a Python inter",
+      "available, making it highly suitable for both academic research experiments and industrial-scale deployments\nin vision, speech, and multimedia.\nMathematically, Caffe supports typical building blocks of deep learning: convolutions, pooling, activation\nfunctions, normalization, dropout, and backpropag",
+      "mance, modularity, and ease of use, fostering an extensive community of contributors and users. Although\nits direct development waned after 2018 with the advent of newer frameworks like TensorFlow and PyTorch,\nCaffe\u2019s core ideas and implementations live on, influencing modern deep learning tools. It",
+      "continue to underpin modern deep learning frameworks. The open-source community and projects like\nPyTensor (a fork and continuation) have maintained its legacy, ensuring its foundational ideas persist in\nadvancing AI research and applications.\nOverall, Theano was pivotal in accelerating the adoption",
+      "43. (2022) \u2014 Neural Networks and Learning Algorithms in MATLAB\nhttps://doi.org/10.1007/978-3-031-14571-1\n44. (2023) \u2014 Quantifying the Benefit of Artificial Intelligence for Scientific Research\nhttps://arxiv.org/pdf/2304.10578\n45. (2024) \u2014 Implementing a Hierarchical Deep Learning Approach for Simula",
+      "4.7 MXNet (2015)\nMXNet, officially known as Apache MXNet, is a scalable, open-source deep learning framework that was\nfirst released in 2015 and widely adopted by Amazon Web Services (AWS) as its preferred deep learning\nlibrary. MXNet originated as a joint research effort between the University of W",
+      "cient backpropagation used in training deep neural networks. The system\u2019s parallel and distributed design\nleverages optimization techniques and low-level integration with hardware drivers to maximize throughput\nand reduce training time. Its layered architecture abstracts details of hardware accelera",
+      "deep learning innovation worldwide 50.\n4.4 Keras (2015)\nKeras, introduced in 2015 by Fran\u00b8 cois Chollet, a Google engineer, is an open-source, high-level neural network\nAPI designed to simplify the development and experimentation with deep learning models. Developed as part\nof the ONEIROS research p"
+    ]
+  },
+  {
+    "question": "Which team at Google developed and released TensorFlow?",
+    "expected": "Google Brain",
+    "answer": "The Google Brain team.",
+    "type": "answerable",
+    "correct": true,
+    "retrieval_hit": true,
+    "latency": 2.2879648208618164,
+    "retrieved": [
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        12
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        11
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        11
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        12
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        13
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        10
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        12
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        12
+      ]
+    ],
+    "chunks": [
+      "Initially released under the Apache 2.0 open-source license, TensorFlow aimed to accelerate AI research\nand democratize access to powerful machine learning tools. Since its launch, TensorFlow has become the most\npopular and widely adopted deep learning framework globally, thanks to its combination o",
+      "mance, modularity, and ease of use, fostering an extensive community of contributors and users. Although\nits direct development waned after 2018 with the advent of newer frameworks like TensorFlow and PyTorch,\nCaffe\u2019s core ideas and implementations live on, influencing modern deep learning tools. It",
+      "dataflow graphs consisting of nodes representing operations and edges representing multidimensional data\narrays called tensors, from which the framework derives its name. Its architecture supports distributed\ncomputing and seamless deployment across CPUs, GPUs, and Google\u2019s custom Tensor Processing ",
+      "cient backpropagation used in training deep neural networks. The system\u2019s parallel and distributed design\nleverages optimization techniques and low-level integration with hardware drivers to maximize throughput\nand reduce training time. Its layered architecture abstracts details of hardware accelera",
+      "training or inference, which significantly simplified experimentation and debugging compared to static graph\nframeworks like TensorFlow 53.\nThe development team at FAIR, led by Soumith Chintala among others, focused on usability and seam-\nless integration with the Python data science ecosystem. PyTo",
+      "AI technologies, enabling engineers and scientists to develop new AI methods and apply them to complex\nreal-world problems efficiently 44 .\n3.8 Scikit-learn (2007\u20132010)\nScikit-learn (also known as sklearn), developed between 2007 and 2010, is a widely acclaimed open-source\nmachine learning library f",
+      "Initially, Keras was independent, capable of running on multiple backend engines including TensorFlow,\nTheano, and Microsoft Cognitive Toolkit (CNTK). Starting from version 2.4, it was integrated into Ten-\nsorFlow as its official high-level API through thetf.kerasmodule, leveraging TensorFlow\u2019s comp",
+      "deep learning innovation worldwide 50.\n4.4 Keras (2015)\nKeras, introduced in 2015 by Fran\u00b8 cois Chollet, a Google engineer, is an open-source, high-level neural network\nAPI designed to simplify the development and experimentation with deep learning models. Developed as part\nof the ONEIROS research p"
+    ]
+  },
+  {
+    "question": "Which research group developed PyTorch?",
+    "expected": "Facebook",
+    "answer": "Facebook AI Research (FAIR) developed PyTorch.",
+    "type": "answerable",
+    "correct": true,
+    "retrieval_hit": true,
+    "latency": 3.9307031631469727,
+    "retrieved": [
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        13
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        13
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        12
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        19
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        13
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        34
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        11
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        12
+      ]
+    ],
+    "chunks": [
+      "including convolutions, recurrent layers, and various activation and loss functions, combined with opti-\nmization algorithms like stochastic gradient descent and Adam. The autograd engine automates gradient\ncomputation via reverse-mode differentiation, integral to backpropagation training.\nPyTorch\u2019s",
+      "training or inference, which significantly simplified experimentation and debugging compared to static graph\nframeworks like TensorFlow 53.\nThe development team at FAIR, led by Soumith Chintala among others, focused on usability and seam-\nless integration with the Python data science ecosystem. PyTo",
+      "technology continues to resonate as Keras scales to support new frameworks and hardware.\n4.5 PyTorch (2016)\nPyTorch is a dynamic, open-source deep learning framework developed by Facebook AI Research (FAIR) and\nfirst released in 2016. Created as a successor to the Lua-based Torch framework, PyTorch ",
+      "community, which has contributed to making cutting-edge AI techniques approachable for practitioners, ed-\nucators, and researchers across the world. It has been instrumental in democratizing deep learning education\nand practice, accelerating the adoption of PyTorch and modern deep learning best prac",
+      "in 2022 formalized its open governance, ensuring ongoing development guided by an industry consortium\nrepresenting leading technology enterprises 54.\nPyTorch\u2019s prominence stems from blending the agility needed for research with the demands of produc-\ntion, making it a flagship deep learning platform",
+      "https://arxiv.org/pdf/2310.03715\n51. (2017) \u2014 kerasR: R Interface to the Keras Deep Learning Library\nhttps://joss.theoj.org/papers/10.21105/joss.00296.pdf\n52. (2021) \u2014 Role of tectonic stress and topography on repeated lateral dikes: application to the 1975-1984\nKrafla and 2023-2025 Svartsengi rifti",
+      "mance, modularity, and ease of use, fostering an extensive community of contributors and users. Although\nits direct development waned after 2018 with the advent of newer frameworks like TensorFlow and PyTorch,\nCaffe\u2019s core ideas and implementations live on, influencing modern deep learning tools. It",
+      "nected), convolutional layers, recurrent neural networks (LSTM, GRU), and allows automatic differentiation\nand backpropagation via its backend. It supports a range of optimization algorithms like stochastic gradient\ndescent and Adam, and facilitates integration of custom loss functions or metrics. K"
+    ]
+  },
+  {
+    "question": "How many parameters does GPT-3 have?",
+    "expected": "175",
+    "answer": "GPT-3 has 175 billion parameters.",
+    "type": "answerable",
+    "correct": true,
+    "retrieval_hit": true,
+    "latency": 3.6142232418060303,
+    "retrieved": [
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        21
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        17
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        21
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        17
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        20
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        24
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        21
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        17
+      ]
+    ],
+    "chunks": [
+      "built on deep neural network layers that leverage self-attention to analyze and synthesize input text. It was\ntrained on a vast corpus\u2014over 45 terabytes of diverse text from Common Crawl, Wikipedia, books, and\nscientific articles\u2014allowing it to attain fluid, humanlike language abilities.\nThe most re",
+      "dramatic leap in scale\u2014with up to 1.5 billion parameters\u2014and showcased the power of unsupervised learning\non massive datasets. Trained on the WebText corpus (8 million web pages, \u02dc40GB), GPT-2 demonstrated\nthe ability to produce multi-paragraph, coherent, and contextually relevant text with only a s",
+      "tion systems. The model\u2019s context window of 2048 tokens enables understanding and retention of lengthy\npassages, contributing to coherent multi-paragraph output 92.\nGPT-3\u2019s emergence resulted in widespread impact across industries. It powers chatbots, creative writing\nassistants, educational tools, ",
+      "any task-specific training data, simply by interpreting instructions given in natural language 72.\nOpenAI opted for a staged release, initially limiting public access to smaller models before fully releasing\nthe largest 1.5-billion-parameter version in November 2019. This cautious approach was due t",
+      "and intelligent systems 90.\n6 Multimodal & Generative AI Explosion (2020\u20132023)\n6.1 GPT-3 (2020)\nGPT-3 (Generative Pre-trained Transformer 3), released by OpenAI in 2020 91 , marked a major milestone in\nthe evolution of generative AI. With a staggering 175 billion parameters, GPT-3 dwarfed all previo",
+      "is a landmark achievement in the movement toward open, collaborative, and transparent AI research. Devel-\noped over a year-long workshop by the BigScience collaboration\u2014a vast consortium coordinated by Hugging\nFace and comprising more than a thousand researchers from around the world\u2014BLOOM is one of",
+      "language models, prompting debates that continue as models grow even larger and more capable.\nLicensing and API access to GPT-3 reflected both excitement and caution; Microsoft secured exclusive\nrights to the underlying model, while others access it via OpenAI\u2019s cloud API. In the wake of GPT-3, the\n",
+      "DistilBERT) and fundamentally changing the standard paradigm for NLP: from training task-specific models\nfrom scratch to leveraging large, pre-trained \u201cfoundation\u201d language models and adapting them for down-\nstream tasks.\nBERT\u2019s adoption by Google Search in 2019 brought its impact to billions of use"
+    ]
+  },
+  {
+    "question": "How many natural languages was BLOOM trained to generate text in?",
+    "expected": "46",
+    "answer": "BLOOM was trained to generate text and code across 46 natural languages.",
+    "type": "answerable",
+    "correct": true,
+    "retrieval_hit": true,
+    "latency": 2.4502241611480713,
+    "retrieved": [
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        24
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        24
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        25
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        24
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        37
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        21
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        17
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        18
+      ]
+    ],
+    "chunks": [
+      "is a landmark achievement in the movement toward open, collaborative, and transparent AI research. Devel-\noped over a year-long workshop by the BigScience collaboration\u2014a vast consortium coordinated by Hugging\nFace and comprising more than a thousand researchers from around the world\u2014BLOOM is one of",
+      "a crucial focus, making it the most widely inclusive open-source LLM of its time and a powerful tool for\ncountering the English-centric bias seen in earlier AI models. To achieve this, BLOOM was trained on the\ndiverse, transparent ROOTS corpus, containing nearly 1.6TB of text carefully sourced, docu",
+      "Transparency extended far beyond the code and weights\u2014the whole process, including engineering deci-\nsions, training logs, and ethical deliberations, was carried out in public view on the Jean Zay supercomputer\nin France. This pioneering approach allowed researchers everywhere to follow, audit, and ",
+      "and reasoning depth 117.\nThe impact of ChatGPT is profound and ongoing. It has been widely adopted in customer service, edu-\ncation, content creation, programming, healthcare, entertainment, and more\u2014changing workflows and user\nexpectations about interacting with computers. Its ease of use\u2014running i",
+      "https://arxiv.org/pdf/2401.16658\n115. (2024) \u2014 Transforming Conversations with AI\u2014A Comprehensive Study of ChatGPT\nhttps://doi.org/10.1007/s12559-023-10236-2\n116. (2024) \u2014 Transforming Conversations with AI\u2014A Comprehensive Study of ChatGPT\nhttps://doi.org/10.1007/s12559-023-10236-2\n117. (2024) \u2014 Sys",
+      "built on deep neural network layers that leverage self-attention to analyze and synthesize input text. It was\ntrained on a vast corpus\u2014over 45 terabytes of diverse text from Common Crawl, Wikipedia, books, and\nscientific articles\u2014allowing it to attain fluid, humanlike language abilities.\nThe most re",
+      "dramatic leap in scale\u2014with up to 1.5 billion parameters\u2014and showcased the power of unsupervised learning\non massive datasets. Trained on the WebText corpus (8 million web pages, \u02dc40GB), GPT-2 demonstrated\nthe ability to produce multi-paragraph, coherent, and contextually relevant text with only a s",
+      "unifying principle is to prepend tasks with special instruction-like text prefixes (e.g., \u201ctranslate English to\nGerman: That is good\u201d) and train the model 165end-to-end on a diverse range of tasks using the same\narchitecture and loss function. This provides a consistent interface and allows multitas"
+    ]
+  },
+  {
+    "question": "Who invented the perceptron?",
+    "expected": "I don't have enough information",
+    "answer": "I don't have enough information to answer that.",
+    "type": "unanswerable",
+    "correct": true,
+    "retrieval_hit": null,
+    "latency": 4.584625959396362,
+    "retrieved": [
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        7
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        8
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        7
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        7
+      ],
+      [
+        "Research_Paper_On_Artificial_Intelligence_And_Its.pdf",
+        2
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        7
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        6
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        12
+      ]
+    ],
+    "chunks": [
+      "learning, and robust training strategies in autonomous navigation, and its design principles form the basis\nfor many modern AI-based self-driving systems 31.\n3.3 Backpropagation Algorithm (1986)\nThe backpropagation algorithm, popularized in 1986 by David Rumelhart, Geoffrey Hinton, and Ronald\nWillia",
+      "widely recognized form through the seminal 1995 paper by Corinna Cortes and Vladimir Vapnik at AT&T\nBell Laboratories. Building on foundational work by Vapnik and Alexey Chervonenkis dating back to\nthe 1960s and 1970s, SVM formalized a powerful approach to binary classification by finding the optima",
+      "mapping from high-dimensional sensory input spaces (images and range data) to control actions. The use\nof feedback units introduced an element of temporal memory, allowing the network to incorporate informa-\ntion about the recent past into its decision-making process\u2014related conceptually to what wou",
+      "of neural network training, supported by abundant optimizations, regularization methods, and variants that\nhave further expanded the reach of AI solutions 33.\nIn essence, backpropagation combines deep mathematical concepts from calculus with computational\nstrategies to effectively optimize multilaye",
+      "Journal of Advanced Zoology   \n \nAvailable online at: https://jazindia.com                                                                                                                       231  intelligence and the goal of Artificial Intelligence (A.I.) have been the source of much c onfusion bo",
+      "descent:\nwjkl\u2190w jkl\u2212\u03b7\u2202C\n\u2202wjkl\nwhere\u03b7is the learning rate. This process is repeated iteratively over examples, applying the chain rule\nto efficiently allocate error contributions among all weights.\nBackpropagation\u2019s significance lies not only in its algorithmic efficiency but also in its enabling of ",
+      "of Michigan, SOAR remains a seminal reference point for cognitive architectures, continuing to influence\ntheories of general intelligence by bridging formal computational models with empirical cognitive science\ninsights.\nThis detailed exploration covers SOAR\u2019s theoretical foundations, developmental ",
+      "cient backpropagation used in training deep neural networks. The system\u2019s parallel and distributed design\nleverages optimization techniques and low-level integration with hardware drivers to maximize throughput\nand reduce training time. Its layered architecture abstracts details of hardware accelera"
+    ]
+  },
+  {
+    "question": "What is the Chinese Room argument?",
+    "expected": "I don't have enough information",
+    "answer": "I don't have enough information to answer that.",
+    "type": "unanswerable",
+    "correct": true,
+    "retrieval_hit": null,
+    "latency": 2.7732980251312256,
+    "retrieved": [
+      [
+        "Research_Paper_On_Artificial_Intelligence_And_Its.pdf",
+        1
+      ],
+      [
+        "Research_Paper_On_Artificial_Intelligence_And_Its.pdf",
+        0
+      ],
+      [
+        "Research_Paper_on_Artificial_Intelligence.pdf",
+        1
+      ],
+      [
+        "Research_Paper_On_Artificial_Intelligence_And_Its.pdf",
+        2
+      ],
+      [
+        "Research_Paper_On_Artificial_Intelligence_And_Its.pdf",
+        1
+      ],
+      [
+        "Research_Paper_On_Artificial_Intelligence_And_Its.pdf",
+        1
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        6
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        2
+      ]
+    ],
+    "chunks": [
+      "shared by most animals, but the potential to engage in multi -step reasoning, to understand the meaning of \nnatural language, to design innovative artefacts, t o generate novel plans that achieve goals, and even to reason \nabout their own reasoning. This general human like intelligence was referred ",
+      "the study of the computation that makes it possible to perceive reason and act. Artifici al intelligence is different \nfrom Psychology because it emphasis on computation and is different from computer science because of its \nemphasis on perception, reasoning and action. It makes machines smarter and",
+      "know  that through  artificial  intelligence,  even  \ncomputer  has defeated  human  in chess.  So we can \nsay that reaching  so far has not gone  waste,  \nsomehow,  it is contributing  towards  the \nadvancement  in the Artificial  intelligence.  \nAt present,  there  is no computer  showing  full",
+      "Intelligence usually means \u201c the ability to solve hard problems \u201d (Minsky, 1958 ). \n\u201cAI is concerned with methods of achieving goals in situations in which the information available has a certain \ncomplex character. The methods that have to be used are related to the problem presented by the situati",
+      "from this approach due its difficulty and the lack of progress coming in to the 21st century. It remains yet \nuncertain on when and if strong AI will be made a reality.  \nThe distinction between weak AI and strong AI is also conc erned with rule adherence, i.e., the way machines \ninteract with rules",
+      "It is the science and engineering of making intelligent machines, especially intelligent computer programs. It \nis related to the similar task of using computers to understand human intelligence, but AI does not have to \nconfine itself to methods that are biologically observable. While no co nsensua",
+      "Rooted deeply in cognitive science and artificial intelligence, SOAR aims to create fixed computational build-\ning blocks for general intelligent agents capable of performing a wide array of tasks such as decision-making,\nproblem-solving, planning, and natural language understanding. The architectur",
+      "machines and the nature of intelligence. Interestingly, Weizenbaum himself was surprised and troubled by\nhow readily some users, including his own secretary, formed emotional connections with ELIZA, underscoring\nthe powerful illusion of understanding it created.\nThe development of ELIZA marked a sig"
+    ]
+  },
+  {
+    "question": "What was the Lighthill report and what did it conclude?",
+    "expected": "I don't have enough information",
+    "answer": "I don't have enough information to answer that.",
+    "type": "unanswerable",
+    "correct": true,
+    "retrieval_hit": null,
+    "latency": 2.7400920391082764,
+    "retrieved": [
+      [
+        "Research_Paper_on_Artificial_Intelligence.pdf",
+        1
+      ],
+      [
+        "Research_Paper_On_Artificial_Intelligence_And_Its.pdf",
+        9
+      ],
+      [
+        "Research_Paper_On_Artificial_Intelligence_And_Its.pdf",
+        1
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        1
+      ],
+      [
+        "Research_Paper_on_Artificial_Intelligence.pdf",
+        0
+      ],
+      [
+        "Research_Paper_On_Artificial_Intelligence_And_Its.pdf",
+        9
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        33
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        32
+      ]
+    ],
+    "chunks": [
+      "need for collecting primary data to substan tiate \nthis in future and also more examples might be \nrequired to give more insights into the \nphenomenon of brand endorsement.  \n \nConclusion  \nUntil  now we have discussed  about  the significant  \nfeatures  of artificial  intelligence  i.e. it\u2019s benefi",
+      "academic studies on AI, especially regarding tools and models, (ii) be more detailed on the definition of AI \nused in studies, even when it is not the focus, and (iii) build on cumulative knowledge. Research on AI in IS is \nstill largely unexplored. While there is a relatively sizable amount of lite",
+      "difficult for policymakers to assess what AI systems will be able to do in the near future, a nd how the field may \nget there. There is no common framework to determine which kinds of AI systems are even desirable \u201d \n(Bhatnagar et al., 2018 ). A similar co ncern has been echoed by  Monett and Lewis ",
+      "proof. The discovery of novel proofs for certain theorems, such as theorem 2.85, highlighted its capability\nnot only to replicate but to improve upon human mathematical reasoning 5.\nThe impact of the Logic Theorist on AI and cognitive science was profound. It marked the first practical\ndemonstration",
+      "in the universe can either remain the same or it can \nincrease; however.  computer  programs  to solve  \ncomplex  problems  by applications  of processes  that \nare analogo\nAccording to the current mining situation and the bottoming scheme, it is preliminarily determined",
+      "Journal of Advanced Zoology   \n \nAvailable online at: https://jazindia.com                                                                                                                       238  Conclusion  \n \nThis systematic literature review study provides a structured unde rstanding of the sta",
+      "24. (1978) \u2014 History of LISP\nhttps://dl.acm.org/doi/pdf/10.1145/960118.808387\n25. (2022) \u2014 Introduction to Soar\nhttps://arxiv.org/pdf/2205.03854\n26. (1986) \u2014 Soar\u2014A General Problem-Solving Architecture\nhttps://doi.org/10.1007/978-1-4613-2277-1_15\n27. (2022) \u2014 Introduction to Soar\nhttps://arxiv.org/p",
+      "5. (2006) \u2014 Newell and Simon\u2019s Logic Theorist: Historical Background and Impact on Cognitive Modeling\nhttps://doi.org/10.1177/154193120605000904\n6. (2023) \u2014 Role of tectonic stress and topography on repeated lateral dikes: application to the 1975-1984\nKrafla and 2023-2025 Svartsengi rifting episodes"
+    ]
+  },
+  {
+    "question": "How many parameters does GPT-4 have?",
+    "expected": "I don't have enough information",
+    "answer": "I don't have enough information to answer that.",
+    "type": "unanswerable",
+    "correct": true,
+    "retrieval_hit": null,
+    "latency": 4.0922980308532715,
+    "retrieved": [
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        17
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        27
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        21
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        24
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        17
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        27
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        21
+      ],
+      [
+        "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+        24
+      ]
+    ],
+    "chunks": [
+      "dramatic leap in scale\u2014with up to 1.5 billion parameters\u2014and showcased the power of unsupervised learning\non massive datasets. Trained on the WebText corpus (8 million web pages, \u02dc40GB), GPT-2 demonstrated\nthe ability to produce multi-paragraph, coherent, and contextually relevant text with only a s",
+      "tions about images, and even process live video feeds or screen recordings. In voice mode, it engages in\nreal-time, multi-turn voice conversations at natural speeds, outperforming many previous models in speech\nrecognition, translation, tone, and sentiment understanding. The system can not only reco",
+      "built on deep neural network layers that leverage self-attention to analyze and synthesize input text. It was\ntrained on a vast corpus\u2014over 45 terabytes of diverse text from Common Crawl, Wikipedia, books, and\nscientific articles\u2014allowing it to attain fluid, humanlike language abilities.\nThe most re",
+      "outputs. This combination made ChatGPT surprisingly capable at not just answering questions, but engag-\ning in back-and-forth exchanges, reasoning through ambiguity, admitting mistakes, and playfully challenging\nincorrect premises 116.\nChatGPT\u2019s underlying models evolved rapidly: starting with GPT-3",
+      "any task-specific training data, simply by interpreting instructions given in natural language 72.\nOpenAI opted for a staged release, initially limiting public access to smaller models before fully releasing\nthe largest 1.5-billion-parameter version in November 2019. This cautious approach was due t",
+      "initially with support for text and vision and progressively expanded to enable complex audio and video gen-\neration. The model is highly efficient compared to its predecessors, enabling faster and cheaper deployment\nfor both developers and consumers. Variants like GPT-4o mini\u2014smaller and leaner, bu",
+      "tion systems. The model\u2019s context window of 2048 tokens enables understanding and retention of lengthy\npassages, contributing to coherent multi-paragraph output 92.\nGPT-3\u2019s emergence resulted in widespread impact across industries. It powers chatbots, creative writing\nassistants, educational tools, ",
+      "is a landmark achievement in the movement toward open, collaborative, and transparent AI research. Devel-\noped over a year-long workshop by the BigScience collaboration\u2014a vast consortium coordinated by Hugging\nFace and comprising more than a thousand researchers from around the world\u2014BLOOM is one of"
+    ]
+  }
+]

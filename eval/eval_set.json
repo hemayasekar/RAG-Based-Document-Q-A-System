@@ -1,0 +1,214 @@
+[
+  {
+    "question": "Which two programming languages does the Rajiv Gupta paper say are the most common AI languages?",
+    "expected": "LISP",
+    "source": "Research_Paper_on_Artificial_Intelligence.pdf",
+    "page": 0,
+    "type": "answerable"
+  },
+  {
+    "question": "According to the Rajiv Gupta paper, in which field have the greatest advances in AI occurred?",
+    "expected": "game",
+    "source": "Research_Paper_on_Artificial_Intelligence.pdf",
+    "page": 0,
+    "type": "answerable"
+  },
+  {
+    "question": "Which area of AI does the Rajiv Gupta paper call the hottest area today?",
+    "expected": "neural networks",
+    "source": "Research_Paper_on_Artificial_Intelligence.pdf",
+    "page": 0,
+    "type": "answerable"
+  },
+  {
+    "question": "Which university is the author Rajiv Gupta affiliated with?",
+    "expected": "Chandigarh",
+    "source": "Research_Paper_on_Artificial_Intelligence.pdf",
+    "page": 0,
+    "type": "answerable"
+  },
+
+  {
+    "question": "Who coined the term Artificial Intelligence at the 1956 Dartmouth College conference, according to the Patil paper?",
+    "expected": "McCarthy",
+    "source": "Research_Paper_On_Artificial_Intelligence_And_Its.pdf",
+    "page": 1,
+    "type": "answerable"
+  },
+  {
+    "question": "Since which year has AI entered a new 'summer' period, according to the Patil paper?",
+    "expected": "2010",
+    "source": "Research_Paper_On_Artificial_Intelligence_And_Its.pdf",
+    "page": 1,
+    "type": "answerable"
+  },
+  {
+    "question": "How many studies on AI and ML in IS did the systematic literature review identify and analyse before narrowing to primary studies?",
+    "expected": "1877",
+    "source": "Research_Paper_On_Artificial_Intelligence_And_Its.pdf",
+    "page": 3,
+    "type": "answerable"
+  },
+  {
+    "question": "Whose systematic review process, consisting of 8 steps across 4 phases, is described in the Patil paper?",
+    "expected": "Okoli",
+    "source": "Research_Paper_On_Artificial_Intelligence_And_Its.pdf",
+    "page": 2,
+    "type": "answerable"
+  },
+  {
+    "question": "What are the two vital aspects of machine vision mentioned in the Patil paper?",
+    "expected": "sensitivity",
+    "source": "Research_Paper_On_Artificial_Intelligence_And_Its.pdf",
+    "page": 6,
+    "type": "answerable"
+  },
+  {
+    "question": "Which two humanoid robots does the Patil paper name as examples of AI in robotics?",
+    "expected": "Sophia",
+    "source": "Research_Paper_On_Artificial_Intelligence_And_Its.pdf",
+    "page": 8,
+    "type": "answerable"
+  },
+  {
+    "question": "What is the name of the intelligent virtual assistant introduced by Tesla, according to the Patil paper?",
+    "expected": "TeslaBot",
+    "source": "Research_Paper_On_Artificial_Intelligence_And_Its.pdf",
+    "page": 8,
+    "type": "answerable"
+  },
+  {
+    "question": "How many of the first 52 theorems in chapter two of Principia Mathematica did the Logic Theorist prove?",
+    "expected": "38",
+    "source": "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+    "page": 1,
+    "type": "answerable"
+  },
+  {
+    "question": "Who developed ELIZA?",
+    "expected": "Weizenbaum",
+    "source": "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+    "page": 2,
+    "type": "answerable"
+  },
+  {
+    "question": "What was the name of ELIZA's most famous script that simulated a Rogerian psychotherapist?",
+    "expected": "DOCTOR",
+    "source": "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+    "page": 2,
+    "type": "answerable"
+  },
+  {
+    "question": "On which computer was SHRDLU implemented?",
+    "expected": "PDP-6",
+    "source": "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+    "page": 2,
+    "type": "answerable"
+  },
+  {
+    "question": "Approximately how many production rules did MYCIN's knowledge base contain?",
+    "expected": "600",
+    "source": "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+    "page": 4,
+    "type": "answerable"
+  },
+  {
+    "question": "Who created the Prolog language at Aix-Marseille University?",
+    "expected": "Colmerauer",
+    "source": "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+    "page": 4,
+    "type": "answerable"
+  },
+  {
+    "question": "Who created the LISP programming language in 1958?",
+    "expected": "McCarthy",
+    "source": "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+    "page": 5,
+    "type": "answerable"
+  },
+  {
+    "question": "Who developed ALVINN, the neural network for autonomous vehicle navigation?",
+    "expected": "Pomerleau",
+    "source": "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+    "page": 6,
+    "type": "answerable"
+  },
+  {
+    "question": "At which university was WEKA developed?",
+    "expected": "Waikato",
+    "source": "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+    "page": 7,
+    "type": "answerable"
+  },
+  {
+    "question": "Who introduced Support Vector Machines in the 1995 paper at AT&T Bell Laboratories?",
+    "expected": "Cortes",
+    "source": "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+    "page": 8,
+    "type": "answerable"
+  },
+  {
+    "question": "Who developed the Caffe deep learning framework at UC Berkeley?",
+    "expected": "Jia",
+    "source": "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+    "page": 11,
+    "type": "answerable"
+  },
+  {
+    "question": "Which team at Google developed and released TensorFlow?",
+    "expected": "Google Brain",
+    "source": "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+    "page": 11,
+    "type": "answerable"
+  },
+  {
+    "question": "Which research group developed PyTorch?",
+    "expected": "Facebook",
+    "source": "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+    "page": 12,
+    "type": "answerable"
+  },
+  {
+    "question": "How many parameters does GPT-3 have?",
+    "expected": "175",
+    "source": "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+    "page": 20,
+    "type": "answerable"
+  },
+  {
+    "question": "How many natural languages was BLOOM trained to generate text in?",
+    "expected": "46",
+    "source": "Tracing_the_Evolution_of_Artificial_Intelligence_A.pdf",
+    "page": 24,
+    "type": "answerable"
+  },
+
+  {
+    "question": "Who invented the perceptron?",
+    "expected": "I don't have enough information",
+    "source": null,
+    "page": null,
+    "type": "unanswerable"
+  },
+  {
+    "question": "What is the Chinese Room argument?",
+    "expected": "I don't have enough information",
+    "source": null,
+    "page": null,
+    "type": "unanswerable"
+  },
+  {
+    "question": "What was the Lighthill report and what did it conclude?",
+    "expected": "I don't have enough information",
+    "source": null,
+    "page": null,
+    "type": "unanswerable"
+  },
+  {
+    "question": "How many parameters does GPT-4 have?",
+    "expected": "I don't have enough information",
+    "source": null,
+    "page": null,
+    "type": "unanswerable"
+  }
+]
