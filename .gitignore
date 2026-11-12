@@ -2,4 +2,3 @@
 .venv/
 faiss_index/
 pycache/
-docs/*.pdf
